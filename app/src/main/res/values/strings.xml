@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CafeHouse</string>
+    <string name="logo_txt">Cafe House</string>
+    <string name="order">Food Order App</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="alreadyLogin">Skip</string>
+    <string name="profile">Profile Image</string>
+    <string name="upload">Upload Image</string>
+    <string name="name">Enter your name</string>
+    <string name="number">Enter your number</string>
+    <string name="email">Enter your email</string>
+    <string name="password">Enter your password</string>
+    <string name="orWith">Or With</string>
+    <string name="facebook">Facebook</string>
+    <string name="Google">Google</string>
+    <string name="signIn">Sign In</string>
+    <string name="signUp">Sign Up</string>
+    <string name="already">Already have account? Login</string>
+    <string name="doNot">Don\'t have an account? Register</string>
+
+    <string name="foodName">Name</string>
+    <string name="rupee">₹</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="orderNow">Order Now</string>
+</resources>
